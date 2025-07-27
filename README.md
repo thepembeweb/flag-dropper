@@ -1,6 +1,6 @@
 # Flag Dropper Game
 
-> This project showcases a flag dropping game built with React Native and Expo.
+> An interactive educational mobile game built with React Native and Expo that combines learning with fun. Players drag and drop country flags to their matching country names, featuring smooth animations, haptic feedback, and celebration effects. Perfect for learning world geography while enjoying engaging touch-based gameplay.
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
